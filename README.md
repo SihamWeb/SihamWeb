@@ -25,15 +25,13 @@ I would like to become a great full-stack developer.
 <h2>:desktop_computer: I carried out my projects with</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;">
-<img src="" alt="CSS" title="CSS" data-canonical-src="" style="max-width: 100%;">
-<img src="" alt="JS" title="JS" data-canonical-src="" style="max-width: 100%;">
-<img src="" alt="PHP" title="PHP" data-canonical-src="" style="max-width: 100%;">
-<img src="" alt="MYSQL" title="MYSQL" data-canonical-src="" style="max-width: 100%;">
-<img src="" alt="TWIG" title="TWIG" data-canonical-src="" style="max-width: 100%;">
-<img src="" alt="BOOTSTRAP" title="BOOTSTRAP" data-canonical-src="" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" title="JS" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" title="MYSQL" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" title="BOOTSTRAP" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" title="WORDPRESS" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" style="max-width: 100%;">
-<img src="" alt="SYMFONY" title="SYMFONY" data-canonical-src="" style="max-width: 100%;">
-<img src="" alt="XML" title="XML" data-canonical-src="" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="SYMFONY" title="SYMFONY" data-canonical-src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" style="max-width: 100%;">
 </p>
 
 <h2>📫 How to reach me</h2>
