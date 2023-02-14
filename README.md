@@ -1,7 +1,4 @@
-
-### <title>Mssiweb - Siham</title>
-
-<h1>Hello World 👋</h1>
+### <h1>Hello World 👋</h1>
 
 I'm Charef Siham, a student in Webmaster and Internet Professions (2nd year).
 
