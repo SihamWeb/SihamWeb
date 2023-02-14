@@ -5,7 +5,11 @@ I'm Charef Siham, a student in Webmaster and Internet Professions (2nd year).
 
 <h2>📫 How to reach me</h2>
 
-<p><a href="mailto:siham.charef@etu.unilim.fr" title="My email adress"><img style="height: 20px; width: auto; margin-bottom: -4px;"src="img/email.png"></img> Via my email adress</a></p>
+<div class="flex">
+  <div><img style="height: 20px; width: auto; margin-bottom: -4px;"src="img/email.png"></img></div>
+  <div><p><a href="mailto:siham.charef@etu.unilim.fr" title="My email adress">Via my email adress</a></p></div>
+</div>
+
 <p><a href="https://www.linkedin.com/in/siham-charef-7417a9229/" title="My LinkedIn profile">Via my LinkedIn profile</a></p>
 
 
