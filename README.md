@@ -1,7 +1,10 @@
-### <h1>👋 Hello World 👋</h1>
+### 
+<img src="http://eportfolio-csiham.mssiweb.com/media/logo.png"></img>
+<br />
+<h1>👋 Hello World 👋</h1>
 
-I'm Charef Siham, a student in Webmaster and Internet Professions (2nd year).
-I would like to become a great full-stack developer.
+I'm <strong>Charef Siham</strong>, a student in <strong>Webmaster and Internet Professions</strong> (2nd year).
+I would like to become a <strong>great full-stack developer</strong>.
 
 <h2>:computer: The computer tools I use</h2>
 <p>
