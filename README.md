@@ -3,7 +3,7 @@
 <br />
 <h1>👋 Hello World 👋</h1>
 
-I'm <strong>Charef Siham</strong>, a student in <strong>Webmaster and Internet Professions</strong> (2nd year).
+I'm <strong>Charef Siham</strong>, a student in <strong>Licence professionnelle IT professions - Web applications</strong> (3rd year).
 I would like to become a <strong>great full-stack developer</strong>.
 
 <h2>:computer: The computer tools I use</h2>
