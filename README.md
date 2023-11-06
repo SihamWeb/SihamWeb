@@ -4,7 +4,7 @@
 <h1>👋 Hello World 👋</h1>
 
 I'm <strong>Charef Siham</strong>, a student in <strong>Licence professionnelle IT professions - Web applications</strong> (3rd year).
-I would like to become a <strong>great full-stack developer</strong>.
+I would like to become a <strong>great full-stack developer</strong> but I'd especially like to specialise in <strong>mobile applications</strong>.
 
 <h2>:computer: The computer tools I use</h2>
 <p>
