@@ -1,7 +1,7 @@
 ### 
-<img src="http://eportfolio-csiham.mssiweb.com/media/logo.png"></img>
+<img src="https://mssiweb.com/vue/assets/images/github-mssiweb-dark.png"></img>
 <br />
-<h1>👋 Hello World 👋</h1>
+<h1>👋 Presentation 👋</h1>
 
 I'm <strong>Charef Siham</strong>, a student in <strong>Licence professionnelle IT professions - Web applications</strong> (3rd year).
 I would like to become a <strong>great full-stack developer</strong> but I'd especially like to specialise in <strong>mobile applications</strong>.
